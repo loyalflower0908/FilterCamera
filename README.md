@@ -39,3 +39,10 @@ Filter Camera는 Jetpack Compose를 사용하여 UI를 구성하고, CameraX 라
 이로써 MVC, MVP, MVVM 패턴을 사용해보기를 끝냈다.
 여기서 느낀 점을 적어보겠다.
 (이후에 계속...)
+
+## 🖼️ 스크린샷  
+
+| <img src="path/to/screenshot1.jpg" width="200"> | <img src="path/to/screenshot2.jpg" width="200"> | <img src="path/to/screenshot3.jpg" width="200"> |  
+| :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |  
+|               기본 카메라 화면 📷               |              필터 적용 및 저장 🎞️            |                 결과물 예시 🌌                 |  
+
