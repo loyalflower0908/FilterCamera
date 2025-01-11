@@ -44,5 +44,5 @@ Filter Camera는 Jetpack Compose를 사용하여 UI를 구성하고, CameraX 라
 
 | <img src="path/to/screenshot1.jpg" width="200"> | <img src="path/to/screenshot2.jpg" width="200"> | <img src="path/to/screenshot3.jpg" width="200"> |  
 | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |  
-|               기본 카메라 화면 📷               |              필터 적용 및 저장 🎞️            |                 결과물 예시 🌌                 |  
+|                 기본 카메라 화면                 |                  필터 적용 및 저장                  |                   결과물 예시                     |  
 
