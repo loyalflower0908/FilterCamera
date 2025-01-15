@@ -23,7 +23,7 @@ Filter Camera는 Jetpack Compose를 사용하여 UI를 구성하고, CameraX 라
 - **[GPUImage](https://github.com/cats-oss/android-gpuimage)**: 이미지 및 비디오 필터 처리를 위한 라이브러리
 - **[Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android)**: 의존성 주입을 위한 라이브러리
 - **[Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)**: 비동기 처리를 위한 코루틴
-- **[MVP 패턴]**: Model-View-Presenter 아키텍처 패턴
+- **MVP 패턴**: Model-View-Presenter 아키텍처 패턴
 
 ## 🏗️ 아키텍처
 
