@@ -12,7 +12,7 @@ Filter Camera는 Jetpack Compose를 사용하여 UI를 구성하고, CameraX 라
 
 - **카메라 미리보기**: CameraX를 사용하여 카메라 미리보기 화면을 제공합니다.
 - **사진 촬영**: 미리보기 화면에서 셔터 버튼을 눌러 사진을 촬영할 수 있습니다.
-- **실시간 필터**: GPUImage를 사용하여 다양한 필터를 실시간으로 적용하고 확인할 수 있습니다. (흑백, 세피아, 스케치, 툰 등)
+- **실시간 필터**: GPUImage를 사용하여 다양한 필터를 실시간으로 적용하고 확인할 수 있습니다. (흑백, 세피아, 스케치, 툰 등 12가지)
 - **이미지 저장**: 촬영된 사진은 필터가 적용된 상태로 기기에 저장됩니다.
 - **권한 처리**: 카메라 권한을 요청하고 처리합니다.
 
@@ -56,10 +56,13 @@ MVC, MVP, MVVM 패턴을 이로써 전부 경험해보았는데
 
 ## 🖼️ 스크린샷  
 
-| <img src="path/to/screenshot1.jpg" width="200"> | <img src="path/to/screenshot2.jpg" width="200"> | <img src="path/to/screenshot3.jpg" width="200"> |  
-| :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |  
-|                 기본 카메라 화면                 |                  필터 적용 및 저장                  |                   결과물 예시                     |  
+| <img src="https://github.com/loyalflower0908/FilterCamera/blob/master/Filter%20Camera%20Screenshot/Main%20Screenshot.png" width="200">   | <img src="https://github.com/loyalflower0908/FilterCamera/blob/master/Filter%20Camera%20Screenshot/Invert%20Filter%20Save%20Screenshot.png" width="200"> | <img src="https://github.com/loyalflower0908/FilterCamera/blob/master/Filter%20Camera%20Screenshot/Result%20Screenshot.jpg" width="200"> |  
+| :----------------------------------------------:  | :----------------------------------------------: | :----------------------------------------------: |  
+|                 기본 카메라 화면                  |             Invert 필터 적용 및 저장              |                   결과물 예시                     |  
 
+| <img src="https://github.com/loyalflower0908/FilterCamera/blob/master/Filter%20Camera%20Screenshot/Sepia%20Filter%20Screenshot.png" width="200"> | <img src="https://github.com/loyalflower0908/FilterCamera/blob/master/Filter%20Camera%20Screenshot/Sketch%20Filter%20Screenshot.png" width="200"> | <img src="https://github.com/loyalflower0908/FilterCamera/blob/master/Filter%20Camera%20Screenshot/Swirl%20Filter%20Screenshot.png" width="200"> |
+ | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+|                 Sepia 필터 적용                   |                 Sketch 필터 적용                  |                  Swirl 필터 적용                  | 
 _____________________________________________________
 ### 🕐 개발 기간 🕐
 2024.12. 30 ~ 2025. 01. 12
